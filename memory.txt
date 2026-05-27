@@ -92,6 +92,10 @@ CURRENT SYSTEM STATUS:
   If a user inputs a query before hitting 'Connect', the terminal drops 
   a warning alert to link into the master network node first, avoiding 
   unhandled browser data crashes.
+* STATUS LOCKED: Search facility fully active. Swapped master body style to 
+  'overflow-y: auto' to safely enable vertical scrolling. Brings audio playback 
+  controls, specs panel, and log download tools back into full view on all devices.
+
 
 
 
