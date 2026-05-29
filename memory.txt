@@ -189,6 +189,41 @@ CURRENT OBJECTIVE TRACKING:
 ===================================================================
 [MEMORY STATE WRITTEN // TERMINAL GREEN // STANDBY FOR OPERATOR COMMAND]
 
+# RADIO-FREEDOM: COCKPIT ARCHITECTURE SYNOPSIS
+## Terminal Node Node: Section 23 // Station Registry Log 2026.05
+## Operators: MOJO // MULCIBER -- System Status: LOCK STABLE [GREEN]
+
+### 📡 1. ARCHITECTURAL MISSION PROFILE
+Radio-Freedom is a high-density, automated broadcasting matrix built entirely on an ultra-lightweight, zero-cost client-side memory architecture. Designed for seamless deployment on GitHub Pages, the platform completely bypasses bloated server-side backends and database infrastructure. It runs an expansive, high-fidelity vintage library across multiple dedicated channels with 100% manual operator command at every structural checkpoint.
+
+### 📐 2. FRONTEND CHASSIS & MODULAR MATRIX
+The user interface has been aggressively optimized down to a lean, un-cluttered 236-line HTML5 canvas/CSS terminal template. Visual noise has been eliminated by externalizing core functions into a highly synchronized, sequential 7-script modular stack:
+
+1. `history.js` — Handles the real-time historical retraction cache node.
+2. `favicon.js` — Drives localized browser tab telemetry and visual signature assets.
+3. `main.js` — Orchestrates the core streaming media engine, global audio contexts, and audio frequency intercepts.
+4. `s23-metadata-sandbox.js` — Deploys the active metadata monitoring probe node.
+5. `s23-radar-finder-node.js` — Manages the auxiliary client-side radar tracking tools.
+6. `jingle.js` — Houses the automated background cron interval timer scheduler.
+7. `s23-global-matrix-counter.js` — Aggregates and renders real-time active library telemetry in the bottom-right viewport grid.
+
+### 💾 3. DATABASE STRUCTURE & CRAWL LOGIC
+The system tracks an expansive database of over 5,128 active media files distributed across 14 independent database nodes (12 playlist repositories + `load.json` master pool + `jingles.json` commercial vault). 
+* **Text Grid Integrity**: Every database file maintains a strict, vertical "1-entry-per-line" JSON array layout to guarantee light payload weights and rapid browser fetch times.
+* **Depletion Deck Arrays**: Playlists operate on a strict, non-repeating linear depletion deck architecture via client-side `.shift()` routines. Once an item is broadcast, it is permanently purged from active memory to guarantee zero repetition during a session.
+* **Unified Scope Bridge**: Scripts communicate across boundary walls via the global Window Context Protocol, allowing separate files to interact instantly without race conditions.
+
+### ⚡ 4. CRITICAL CORE UPGRADES & SAFETY FEATURES
+* **Historical Step-Back Gate**: A hardware recovery button positioned on the right-flank console layout at `top: 145px`. It intercepts stream trajectories *before* depletion array shifting occurs. If a network packet drops or a server resets, the operator can force a 1-step manual rollback to retrieve the file without contaminating the playlist queue.
+* **Automated Section 26 Intermission Intercept**: A 30-minute soft-gate background timer that flags an armed state silently. The second an active show track or cinema file reaches its natural `ended` boundary, `main.js` checks the global latch, pauses the master playlist, locks out the console inputs, and injects an authentic mid-century ad or theater trailer from a 310-track repository before restoring the show timeline.
+
+### 🛠️ 5. BACKEND ASSET PROCESSING PIPELINE (OCCAM'S RAZOR)
+Data harvesting is driven by simple, specialized local utilities that eliminate brittle web API dependencies:
+* `mp423.py` — A pure local Python extraction workhorse using `moviepy`. It pulls high-fidelity 128kbps Constant Bitrate Mono audio streams out of raw video files while leaving filename spacing completely unaltered.
+* `classic_harvester.py` — A sequential batch-processing crawler that scrapes `archive.org/download/ClassicTrailers`, downloads targeted streams, extracts the audio spectrum, and immediately shreds the source video files from the disk to maintain a completely flat local storage footprint.
+* **The Forgery Studio**: The workflow enables the local production of "fake radio broadcasts" inside editors like CapCut—layering public domain tracks with vintage ads, shortwave static hiss, and vacuum-tube textures—before deploying them directly onto the live airwaves.
+
+
 
 
 respond using my name
